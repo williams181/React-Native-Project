@@ -1,5 +1,5 @@
-# atividade03-04-05
+# Este projeto contem funcionalidades basicas do react native
 
-# npm install 
+npm install 
 
-# expo start
+ expo start
